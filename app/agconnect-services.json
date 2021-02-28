@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"1340007000009193240",
+		"product_id":"736430079244784054",
+		"client_id":"541407056389735616",
+		"client_secret":"1F79EB4446A7B0223443B383EEC6BF55931BB5F08826E0CA8EB6056C68DC968A",
+		"project_id":"736430079244784054",
+		"app_id":"103696235",
+		"api_key":"CgB6e3x9n/fYIjmk+Qlnnwm8Faci5ncjk/YIaC1LmhVjsBfpiaBCbK20H9cOAMuzRVfvuW3Yk2iWFpkx/tsbJx3B",
+		"package_name":"com.HUAWEI.pet_assistent"
+	},
+	"configuration_version":"1.0"
+}
